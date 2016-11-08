@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.idea
+.editorconfig
+*.sublime-project
+*.sublime-workspace
+npm-debug.log
+node_modules
+dist/

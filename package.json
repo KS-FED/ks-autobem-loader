@@ -1,0 +1,30 @@
+{
+  "name": "ks-autobem-loader",
+  "version": "1.0.0",
+  "description": "auto BEM loader",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "htmlparser2": "^3.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KS-FED/ks-autobem-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "bem",
+    "auto"
+  ],
+  "author": "zdzDesigner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KS-FED/ks-autobem-loader/issues"
+  },
+  "homepage": "https://github.com/KS-FED/ks-autobem-loader#readme"
+}
