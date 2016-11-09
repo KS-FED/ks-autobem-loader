@@ -1,10 +1,9 @@
 {
   "name": "ks-autobem-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "auto BEM loader",
   "main": "index.js",
   "dependencies": {
-    "cheerio": "^0.22.0",
     "htmlparser2": "^3.9.2"
   },
   "devDependencies": {},
@@ -21,10 +20,42 @@
     "bem",
     "auto"
   ],
-  "author": "zdzDesigner",
+  "author": {
+    "name": "zdzDesigner"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/KS-FED/ks-autobem-loader/issues"
   },
-  "homepage": "https://github.com/KS-FED/ks-autobem-loader#readme"
+  "homepage": "https://github.com/KS-FED/ks-autobem-loader#readme",
+  "gitHead": "c298f9c49e4e65294f14f92e0ed9c548713a7bdf",
+  "_id": "ks-autobem-loader@1.0.0",
+  "_shasum": "88754ee922f9270bfd989cd200921a5784bbb84b",
+  "_from": "ks-autobem-loader@*",
+  "_npmVersion": "2.15.9",
+  "_nodeVersion": "4.5.0",
+  "_npmUser": {
+    "name": "zdz-designer",
+    "email": "1696498456@qq.com"
+  },
+  "dist": {
+    "shasum": "88754ee922f9270bfd989cd200921a5784bbb84b",
+    "size": 2264,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/ks-autobem-loader/download/ks-autobem-loader-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "zdz-designer",
+      "email": "1696498456@qq.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/ks-autobem-loader-1.0.0.tgz_1478606894186_0.5813458091579378"
+  },
+  "directories": {},
+  "publish_time": 1478606896302,
+  "_cnpm_publish_time": 1478606896302,
+  "_resolved": "https://registry.npm.taobao.org/ks-autobem-loader/download/ks-autobem-loader-1.0.0.tgz"
 }
