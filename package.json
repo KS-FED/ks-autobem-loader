@@ -1,6 +1,6 @@
 {
   "name": "ks-autobem-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "auto BEM loader",
   "main": "index.js",
   "dependencies": {
