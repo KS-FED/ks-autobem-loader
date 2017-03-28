@@ -24,7 +24,7 @@
 
     输出
     <div class="module" cid="module">
-        <div class="module_head"></div>
+        <div class="module-head"></div>
     </div>
 
 ```
